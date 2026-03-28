@@ -1,1 +1,1 @@
-# G-ncel-Konular-Project
+# The project is currently in the development phase.
